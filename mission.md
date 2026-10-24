@@ -2,6 +2,7 @@
     1- Boxers, MMA Fighters
     2- Combat Coaches
     3- Individuals who want to learn how to fight
+    4- Judges to determine scoring (punch output, etc)
 
 2. How does the app work?
 Main Functions
