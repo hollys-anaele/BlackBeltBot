@@ -1,6 +1,7 @@
 1. Who is this app for?
     1- Boxers, MMA Fighters
     2- Combat Coaches
+    3- Individuals who want to learn how to fight
 
 2. How does the app work?
 Main Functions
